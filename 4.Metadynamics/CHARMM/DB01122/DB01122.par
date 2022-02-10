@@ -1,0 +1,120 @@
+* ---- 
+* Built parameters for DB01122.mol2 
+*    by user vzoete     Mon Nov  2 21:00:14 CET 2020 
+* ---- 
+*
+
+BONDS
+O=C  C=O   931.963     1.2220 
+HNCO NC=O  479.511     1.0150 
+C=O  C=O   317.947     1.4890 
+C=O  NC=O  419.491     1.3690 
+NC=O CR    335.651     1.4360 
+HCMM CR    342.991     1.0930 
+CR   CR    306.432     1.5080 
+CR   NRP   276.638     1.4800 
+HCMM CB    381.853     1.0840 
+CLMM CB    243.102     1.7210 
+CB   CB    401.068     1.3740 
+CR   CB    356.737     1.4860 
+
+ANGLES
+CB   CB   CB     48.145    119.9770 
+CB   CB   HCMM   40.517    120.5710 
+CB   CB   CR     57.788    120.4190 
+CB   CB   CLMM   68.367    118.4950 
+CR   NRP  CR     62.034    112.2510 
+CR   NC=O C=O    59.084    119.6000 
+CR   NC=O HNCO   39.725    120.0660 
+C=O  NC=O HNCO   41.380    120.2770 
+CB   CR   NRP    77.363    111.2750 
+CB   CR   HCMM   45.122    109.4910 
+NRP  CR   HCMM   62.754    106.2240 
+HCMM CR   HCMM   37.134    108.8360 
+NRP  CR   CR     84.848    106.4930 
+CR   CR   HCMM   45.770    110.5490 
+NC=O CR   CR     75.564    109.9600 
+NC=O CR   HCMM   53.255    107.6460 
+O=C  C=O  NC=O   65.273    127.1520 
+O=C  C=O  C=O    66.136    117.0240 
+NC=O C=O  C=O    81.249    110.4210 
+
+DIHEDRALS
+CB   CB   CB   CB       3.500  2   180.00 
+CB   CB   CB   CR       3.500  2   180.00 
+CB   CB   CB   HCMM     3.500  2   180.00 
+CB   CB   CB   CLMM     3.500  2   180.00 
+CB   CB   CR   NRP      0.100  3     0.00 
+CB   CB   CR   HCMM    -0.210  2   180.00 
+CB   CB   CR   HCMM     0.196  3     0.00 
+CB   CR   NRP  CR       0.125  3     0.00 
+NRP  CR   CR   NC=O     0.150  3     0.00 
+NRP  CR   CR   HCMM     0.346  1     0.00 
+NRP  CR   CR   HCMM    -0.265  2   180.00 
+NRP  CR   CR   HCMM     0.139  3     0.00 
+O=C  C=O  NC=O CR      -0.160  1     0.00 
+O=C  C=O  NC=O CR       3.147  2   180.00 
+O=C  C=O  NC=O CR      -0.073  3     0.00 
+O=C  C=O  NC=O HNCO     0.718  1     0.00 
+O=C  C=O  NC=O HNCO     2.487  2   180.00 
+O=C  C=O  NC=O HNCO    -0.227  3     0.00 
+O=C  C=O  C=O  O=C      0.300  2   180.00 
+O=C  C=O  C=O  NC=O     0.300  2   180.00 
+CLMM CB   CB   CR       3.500  2   180.00 
+CLMM CB   CB   HCMM     3.500  2   180.00 
+NC=O CR   CR   HCMM     0.213  3     0.00 
+NC=O C=O  C=O  NC=O     0.300  2   180.00 
+CR   CB   CB   HCMM     3.500  2   180.00 
+CR   NRP  CR   CR       0.125  3     0.00 
+CR   NRP  CR   HCMM     0.123  3     0.00 
+CR   CR   NC=O C=O     -0.513  1     0.00 
+CR   CR   NC=O C=O      0.347  2   180.00 
+CR   CR   NC=O C=O      0.474  3     0.00 
+CR   CR   NC=O HNCO     0.276  1     0.00 
+CR   CR   NC=O HNCO    -0.190  2   180.00 
+CR   CR   NC=O HNCO     0.163  3     0.00 
+CR   NC=O C=O  C=O      3.000  2   180.00 
+C=O  NC=O CR   HCMM    -1.050  1     0.00 
+C=O  NC=O CR   HCMM     0.681  2   180.00 
+C=O  NC=O CR   HCMM     0.011  3     0.00 
+C=O  C=O  NC=O HNCO     3.000  2   180.00 
+HNCO NC=O CR   HCMM    -0.308  1     0.00 
+HNCO NC=O CR   HCMM     0.137  3     0.00 
+HCMM CB   CB   HCMM     3.500  2   180.00 
+HCMM CR   CR   HCMM     0.142  1     0.00 
+HCMM CR   CR   HCMM    -0.693  2   180.00 
+HCMM CR   CR   HCMM     0.157  3     0.00 
+
+IMPROPER
+CB   CB   CB   HCMM     1.079  0     0.00 
+CB   CR   CB   CB       2.879  0     0.00 
+CB   CLMM CB   CB       2.519  0     0.00 
+CR   NRP  CB   HCMM     0.000  0     0.00 
+NRP  CR   CR   CR       0.000  0     0.00 
+CR   CR   NRP  HCMM     0.000  0     0.00 
+CR   HCMM NRP  HCMM     0.000  0     0.00 
+CR   NC=O CR   HCMM     0.000  0     0.00 
+NC=O C=O  CR   HNCO    -1.439  0     0.00 
+C=O  C=O  NC=O O=C      9.356  0     0.00 
+C=O  NC=O C=O  O=C      9.356  0     0.00 
+NC=O CR   C=O  HNCO    -1.439  0     0.00 
+CR   CR   NC=O HCMM     0.000  0     0.00 
+CR   HCMM NC=O HCMM     0.000  0     0.00 
+CR   NRP  CR   HCMM     0.000  0     0.00 
+CR   HCMM CR   HCMM     0.000  0     0.00 
+CR   CB   NRP  HCMM     0.000  0     0.00 
+CB   CB   CB   CLMM     2.519  0     0.00 
+
+NONBONDED nbxmod  5 atom cdiel shift vatom vdistance vswitch - 
+cutnb 14.0 ctofnb 12.0 ctonnb 10.0 eps 1.0 e14fac 1.0 wmin 1.5 
+CB      0.000000  -0.070000     1.992400    
+NRP     0.000000  -0.200000     1.850000    
+O=C     0.000000  -0.120000     1.700000   0.000000  -0.120000     1.400000    
+CLMM    0.000000  -0.260000     2.040000    
+NC=O    0.000000  -0.200000     1.850000    
+CR      0.000000  -0.055000     2.175000   0.000000  -0.010000     1.900000    
+C=O     0.000000  -0.110000     2.000000    
+HNCO    0.000000  -0.046000     0.224500    
+HCMM    0.000000  -0.022000     1.320000    
+
+

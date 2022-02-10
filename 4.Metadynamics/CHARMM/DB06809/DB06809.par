@@ -1,0 +1,90 @@
+* ---- 
+* Built parameters for DB06809i.mol2 
+*    by user vzoete     Mon Nov  9 18:43:25 CET 2020 
+* ---- 
+*
+
+BONDS
+HCMM CR    342.991     1.0930 
+HNR  NR    467.061     1.0190 
+CR   CR    306.432     1.5080 
+CR   NR    365.876     1.4510 
+HCMM CB    381.853     1.0840 
+CR   CB    356.737     1.4860 
+CB   CB    401.068     1.3740 
+
+ANGLES
+CB   CB   CB     48.145    119.9770 
+CB   CB   HCMM   40.517    120.5710 
+CB   CB   CR     57.788    120.4190 
+CR   NR   CR     78.443    107.0180 
+CR   NR   HNR    54.910    109.0620 
+CB   CR   NR     78.443    110.9920 
+CB   CR   HCMM   45.122    109.4910 
+NR   CR   HCMM   46.994    110.2970 
+HCMM CR   HCMM   37.134    108.8360 
+NR   CR   CR     55.917    108.2900 
+CR   CR   HCMM   45.770    110.5490 
+CR   CR   CR     61.243    109.6080 
+
+DIHEDRALS
+CB   CB   CB   CB       3.500  2   180.00 
+CB   CB   CB   CR       3.500  2   180.00 
+CB   CB   CB   HCMM     3.500  2   180.00 
+CB   CB   CR   NR       0.100  3     0.00 
+CB   CB   CR   HCMM    -0.210  2   180.00 
+CB   CB   CR   HCMM     0.196  3     0.00 
+CB   CR   NR   CR      -0.150  2   180.00 
+CB   CR   NR   CR       0.250  3     0.00 
+NR   CR   CR   CR      -0.710  1     0.00 
+NR   CR   CR   CR      -0.046  2   180.00 
+NR   CR   CR   CR       0.550  3     0.00 
+NR   CR   CR   HCMM    -0.372  1     0.00 
+NR   CR   CR   HCMM    -0.617  2   180.00 
+NR   CR   CR   HCMM     0.169  3     0.00 
+NR   CR   CR   NR       0.527  1     0.00 
+NR   CR   CR   NR       0.417  2   180.00 
+CR   CB   CB   HCMM     3.500  2   180.00 
+CR   NR   CR   CR      -0.220  1     0.00 
+CR   NR   CR   CR       0.393  2   180.00 
+CR   NR   CR   CR       0.136  3     0.00 
+CR   NR   CR   HCMM     0.197  1     0.00 
+CR   NR   CR   HCMM    -0.193  2   180.00 
+CR   NR   CR   HCMM     0.281  3     0.00 
+CR   CR   CR   HCMM     0.320  1     0.00 
+CR   CR   CR   HCMM    -0.315  2   180.00 
+CR   CR   CR   HCMM     0.132  3     0.00 
+CR   CR   NR   HNR     -0.214  1     0.00 
+CR   CR   NR   HNR      0.162  2   180.00 
+CR   CR   NR   HNR      0.140  3     0.00 
+HNR  NR   CR   HCMM    -0.076  1     0.00 
+HNR  NR   CR   HCMM    -0.220  2   180.00 
+HNR  NR   CR   HCMM     0.178  3     0.00 
+HCMM CB   CB   HCMM     3.500  2   180.00 
+HCMM CR   CR   HCMM     0.142  1     0.00 
+HCMM CR   CR   HCMM    -0.693  2   180.00 
+HCMM CR   CR   HCMM     0.157  3     0.00 
+
+IMPROPER
+CB   CB   CB   HCMM     1.079  0     0.00 
+CB   CR   CB   CB       2.879  0     0.00 
+CR   NR   CB   HCMM     0.000  0     0.00 
+CR   HCMM CB   HCMM     0.000  0     0.00 
+NR   CR   CR   CR       0.000  0     0.00 
+CR   CR   NR   HCMM     0.000  0     0.00 
+CR   HCMM NR   HCMM     0.000  0     0.00 
+CR   CR   CR   HCMM     0.000  0     0.00 
+CR   HCMM CR   HCMM     0.000  0     0.00 
+CR   NR   CR   HCMM     0.000  0     0.00 
+NR   CR   CR   HNR      0.000  0     0.00 
+CB   CB   CB   CR       2.879  0     0.00 
+
+NONBONDED nbxmod  5 atom cdiel shift vatom vdistance vswitch - 
+cutnb 14.0 ctofnb 12.0 ctonnb 10.0 eps 1.0 e14fac 1.0 wmin 1.5 
+CB      0.000000  -0.070000     1.992400    
+NR      0.000000  -0.200000     1.850000    
+CR      0.000000  -0.055000     2.175000   0.000000  -0.010000     1.900000    
+HNR     0.000000  -0.046000     0.224500    
+HCMM    0.000000  -0.022000     1.320000    
+
+

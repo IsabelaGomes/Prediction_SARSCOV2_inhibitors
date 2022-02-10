@@ -1,0 +1,11 @@
+--receptor main-protease.pdbqt 
+--ligand lig.pdbqt 
+--center_x 12.854 
+--center_y 2.772 
+--center_z 17.591 
+--size_x 24 
+--size_y 28 
+--size_z 26 
+--exhaustiveness 32 
+--num_modes 7 
+--log lig.txt

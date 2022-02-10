@@ -1,0 +1,118 @@
+* ---- 
+* Built parameters for DB02546i.mol2 
+*    by user vzoete     Mon Nov  9 18:41:52 CET 2020 
+* ---- 
+*
+
+BONDS
+O=C  C=O   931.963     1.2220 
+HCMM CR    342.991     1.0930 
+C=O  CR    301.539     1.4920 
+C=O  NC=O  419.491     1.3690 
+OR   HOR   560.905     0.9720 
+OR   NC=O  430.502     1.4100 
+CR   CR    306.432     1.5080 
+NC=O HNCO  479.511     1.0150 
+NC=O CB    394.519     1.3950 
+CB   CB    401.068     1.3740 
+HCMM CB    381.853     1.0840 
+
+ANGLES
+CB   CB   CB     48.145    119.9770 
+CB   CB   NC=O   73.765    117.9180 
+CB   CB   HCMM   40.517    120.5710 
+CB   NC=O C=O    73.621    118.5960 
+CB   NC=O HNCO   45.194    118.2270 
+C=O  NC=O HNCO   41.380    120.2770 
+C=O  NC=O OR     69.087    110.1330 
+OR   NC=O HNCO   59.660    113.2140 
+CR   CR   CR     61.243    109.6080 
+CR   CR   HCMM   45.770    110.5490 
+HCMM CR   HCMM   37.134    108.8360 
+CR   CR   C=O    55.917    107.5170 
+C=O  CR   HCMM   46.778    108.3850 
+NC=O C=O  CR     70.814    112.7350 
+NC=O C=O  O=C    65.273    127.1520 
+CR   C=O  O=C    67.504    124.4100 
+NC=O OR   HOR    66.424    99.6880 
+
+DIHEDRALS
+CB   CB   CB   CB       3.500  2   180.00 
+CB   CB   CB   HCMM     3.500  2   180.00 
+CB   NC=O C=O  CR       3.000  2   180.00 
+CB   NC=O C=O  O=C      3.000  2   180.00 
+CB   CB   NC=O C=O      3.000  2   180.00 
+CB   CB   NC=O HNCO     3.000  2   180.00 
+CB   CB   CB   NC=O     3.500  2   180.00 
+NC=O CB   CB   HCMM     3.500  2   180.00 
+NC=O C=O  CR   CR      -0.464  1     0.00 
+NC=O C=O  CR   CR       0.556  2   180.00 
+NC=O C=O  CR   CR       0.694  3     0.00 
+NC=O C=O  CR   HCMM    -0.206  1     0.00 
+NC=O C=O  CR   HCMM     0.346  2   180.00 
+NC=O C=O  CR   HCMM     0.043  3     0.00 
+CR   CR   C=O  O=C      0.412  1     0.00 
+CR   CR   C=O  O=C      0.070  2   180.00 
+CR   CR   C=O  O=C      0.163  3     0.00 
+CR   CR   CR   CR       0.051  1     0.00 
+CR   CR   CR   CR       0.341  2   180.00 
+CR   CR   CR   CR       0.166  3     0.00 
+CR   CR   CR   HCMM     0.320  1     0.00 
+CR   CR   CR   HCMM    -0.315  2   180.00 
+CR   CR   CR   HCMM     0.132  3     0.00 
+CR   C=O  NC=O HNCO    -0.147  1     0.00 
+CR   C=O  NC=O HNCO     2.902  2   180.00 
+CR   C=O  NC=O HNCO     0.671  3     0.00 
+C=O  CR   CR   CR       0.033  1     0.00 
+C=O  CR   CR   CR      -0.078  2   180.00 
+C=O  CR   CR   CR       0.071  3     0.00 
+C=O  CR   CR   HCMM    -0.128  1     0.00 
+C=O  CR   CR   HCMM     0.029  2   180.00 
+CR   C=O  NC=O OR      -0.517  1     0.00 
+CR   C=O  NC=O OR       4.396  2   180.00 
+CR   C=O  NC=O OR       0.732  3     0.00 
+C=O  NC=O OR   HOR      0.265  1     0.00 
+C=O  NC=O OR   HOR     -0.582  3     0.00 
+O=C  C=O  NC=O HNCO     0.718  1     0.00 
+O=C  C=O  NC=O HNCO     2.487  2   180.00 
+O=C  C=O  NC=O HNCO    -0.227  3     0.00 
+O=C  C=O  CR   HCMM     0.330  1     0.00 
+O=C  C=O  CR   HCMM    -0.704  2   180.00 
+O=C  C=O  CR   HCMM     0.154  3     0.00 
+O=C  C=O  NC=O OR       0.553  1     0.00 
+O=C  C=O  NC=O OR       4.316  2   180.00 
+O=C  C=O  NC=O OR      -0.226  3     0.00 
+HNCO NC=O OR   HOR      0.600  1     0.00 
+HNCO NC=O OR   HOR      0.250  2   180.00 
+HNCO NC=O OR   HOR     -0.500  3     0.00 
+HCMM CR   CR   HCMM     0.142  1     0.00 
+HCMM CR   CR   HCMM    -0.693  2   180.00 
+HCMM CR   CR   HCMM     0.157  3     0.00 
+HCMM CB   CB   HCMM     3.500  2   180.00 
+
+IMPROPER
+CB   CB   NC=O CB       2.519  0     0.00 
+CB   CB   CB   HCMM     1.079  0     0.00 
+NC=O C=O  CB   HNCO    -1.439  0     0.00 
+C=O  CR   NC=O O=C      9.284  0     0.00 
+CR   CR   C=O  HCMM     0.000  0     0.00 
+CR   HCMM C=O  HCMM     0.000  0     0.00 
+CR   CR   CR   HCMM     0.000  0     0.00 
+CR   HCMM CR   HCMM     0.000  0     0.00 
+CR   C=O  CR   HCMM     0.000  0     0.00 
+C=O  NC=O CR   O=C      9.284  0     0.00 
+NC=O OR   C=O  HNCO    -1.439  0     0.00 
+
+NONBONDED nbxmod  5 atom cdiel shift vatom vdistance vswitch - 
+cutnb 14.0 ctofnb 12.0 ctonnb 10.0 eps 1.0 e14fac 1.0 wmin 1.5 
+CB      0.000000  -0.070000     1.992400    
+NC=O    0.000000  -0.200000     1.850000    
+CR      0.000000  -0.055000     2.175000   0.000000  -0.010000     1.900000    
+C=O     0.000000  -0.110000     2.000000    
+O=C     0.000000  -0.120000     1.700000   0.000000  -0.120000     1.400000    
+OR      0.000000  -0.152100     1.770000    
+HNCO    0.000000  -0.046000     0.224500    
+HOR     0.000000  -0.046000     0.224500    
+HCMM    0.000000  -0.022000     1.320000    
+
+
